@@ -1,0 +1,10 @@
+C:\Users\uzimane_\source\repos\yesno\yesno\bin\Debug\yesno.exe.config
+C:\Users\uzimane_\source\repos\yesno\yesno\bin\Debug\yesno.exe
+C:\Users\uzimane_\source\repos\yesno\yesno\bin\Debug\yesno.pdb
+C:\Users\uzimane_\source\repos\yesno\yesno\obj\Debug\yesno.csprojAssemblyReference.cache
+C:\Users\uzimane_\source\repos\yesno\yesno\obj\Debug\yesno.Form1.resources
+C:\Users\uzimane_\source\repos\yesno\yesno\obj\Debug\yesno.Properties.Resources.resources
+C:\Users\uzimane_\source\repos\yesno\yesno\obj\Debug\yesno.csproj.GenerateResource.cache
+C:\Users\uzimane_\source\repos\yesno\yesno\obj\Debug\yesno.csproj.CoreCompileInputs.cache
+C:\Users\uzimane_\source\repos\yesno\yesno\obj\Debug\yesno.exe
+C:\Users\uzimane_\source\repos\yesno\yesno\obj\Debug\yesno.pdb
